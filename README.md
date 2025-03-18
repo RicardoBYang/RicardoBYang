@@ -1,3 +1,7 @@
+
+  
+
+
 <div align="center">
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=Hi%20There！&fontSize=90&fontAlign=55&fontAlignY=28&desc=I%20'm%20RicarBYang&descAlign=50&descSize=30&descAlignY=56" />
@@ -20,9 +24,6 @@
 
   </div>
 
-  
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-
 
 </div>
 
@@ -41,10 +42,6 @@
 - **计算机视觉**：OpenCV Pytorch TensFlow    
 - **硬件**： 树莓派 OrangePi
 
-## 📊 Github stats | 数据
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoBYang)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoBYang)
 
 
 <picture>
