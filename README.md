@@ -35,6 +35,25 @@
       - 多模态内容生成
       - 邮箱：2060139596@qq.com
 
+## 🛠 Skills | 技能
+- **编程语言**：Python    
+- **算法**：机器学习、深度学习    
+- **计算机视觉**：OpenCV Pytorch TensFlow    
+- **硬件**： 树莓派 OrangePi
+
+## 📊 Github stats | 数据
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoBYang)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoBYang)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ericsciencer/Ericsciencer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ericsciencer/Ericsciencer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ericsciencer/Ericsciencer/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## ⚡ Tech Stack | 技术栈
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
